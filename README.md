@@ -41,6 +41,7 @@ puts markdown.to_html
 ---
 😄
 ---
+```
 {
   "type": "FeatureCollection",
   "features": [
@@ -57,3 +58,4 @@ puts markdown.to_html
     }
   ]
 }
+```
